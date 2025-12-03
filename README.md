@@ -72,7 +72,7 @@ class MyExpertise {
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rulson&layout=compact&theme=tokyonight&langs_count=8"/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rulson&theme=tokyonight&no-frame=true&row=1&column=6)
+
 
 </div>
 
