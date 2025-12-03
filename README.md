@@ -35,8 +35,8 @@ Flutter Developer who loves building clean UIs, smooth animations, and practical
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rulson&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rulson&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rulson&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulson&layout=compact" />
 </p>
 
 ---
