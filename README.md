@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rulson
 
-### Flutter Developer  | Problem Solver
+### Flutter Developer | UI Enthusiast | Problem Solver
 
 *Building delightful mobile experiences with clean code and smooth animations*
 
@@ -70,7 +70,9 @@ class MyExpertise {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rulson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rulson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rulson&theme=tokyo-night&hide_border=true&area=true)
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rulson&layout=compact&theme=tokyonight"/>
 
 </div>
@@ -100,7 +102,7 @@ I'm always interested in connecting with fellow developers, discussing Flutter, 
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rulsonjoshi1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rulson)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rulson-joshi-aaa103369/)
 
 </div>
 
