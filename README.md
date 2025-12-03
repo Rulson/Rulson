@@ -44,7 +44,7 @@ I'm a Flutter developer passionate about crafting mobile applications that combi
 
 ### Specializations
 - **State Management:** Provider, Riverpod, Bloc
-- **Backend Integration:** REST APIs, Firebase, Cloud Functions
+- **Backend Integration:** REST APIs, Firebase, GraphQL
 - **Architecture:** Clean Architecture, MVVM, BLoC pattern
 - **UI/UX:** Material Design, Cupertino, Custom Animations
 
