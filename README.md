@@ -71,13 +71,14 @@ I'm a Flutter developer focused on building cross-platform apps that are as deli
 
 <div align="center">
 
-<a href="https://github.com/Rulson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rulson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rulson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/github/followers/Rulson?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRulson&color=blueviolet&logo=github" />
+<img src="https://img.shields.io/github/stars/Rulson/woo-commerce-flutter-app?style=for-the-badge&logo=github&label=Starred%20Repo&color=blueviolet" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rulson&theme=tokyonight&hide_border=true" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rulson&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -95,6 +96,11 @@ I'm a Flutter developer focused on building cross-platform apps that are as deli
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rulson&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" />
 </div>
+
+> **Note:** The stats and trophy cards above rely on public Vercel instances that are occasionally unavailable. For reliable cards, deploy your own instances:
+>
+> [![Deploy Stats](https://img.shields.io/badge/Deploy_Stats-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https://github.com/Rulson/github-readme-stats)
+> [![Deploy Trophies](https://img.shields.io/badge/Deploy_Trophies-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https://github.com/Rulson/github-profile-trophy)
 
 <br/>
 
