@@ -1,114 +1,157 @@
 <div align="center">
 
-# 👋 Hi, I'm Rulson
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rulson;Flutter+Developer;UI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-### Flutter Developer | UI Enthusiast | Problem Solver
+```yaml
+building: "delightful mobile experiences with clean code & smooth animations"
+```
 
-*Building delightful mobile experiences with clean code and smooth animations*
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rulsonjoshi1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rulson)
+<a href="mailto:rulsonjoshi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Rulson"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<br/>
 
-I'm a Flutter developer passionate about crafting mobile applications that combine beautiful design with practical functionality. My focus is on building apps that users love and that solve real-world problems.
+## 🧑‍💻 About Me
 
-- 💙 **100% committed** to Flutter & Dart ecosystem
-- 📱 Developing cross-platform apps for **Android & iOS**
-- 🎨 Deep interest in **UI/UX design**, state management patterns, and clean architecture
-- ⚡ Performance optimization and smooth animations are my thing
-- 🌱 Continuous learner, always exploring the latest Flutter features
-- 🧩 Love tackling complex problems with elegant solutions
+```dart
+class Developer {
+  final String name = 'Rulson';
+  final String role = 'Flutter Developer';
+  final List<String> passions = [
+    'Crafting beautiful cross-platform UIs',
+    'Clean architecture & state management',
+    'Smooth animations & micro-interactions',
+    'Performance optimization',
+  ];
 
----
+  String get motto => 'Write code people love to use.';
+}
+```
 
-## 🛠️ Tech Stack & Tools
+I'm a Flutter developer focused on building cross-platform apps that are as delightful to use as they are functional. I believe great software starts with great user experience, and I bring that philosophy into every project.
 
-### Core Technologies
+<br/>
+
+## 🛠️ Tech Stack
+
+**📱 Mobile**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### Development Tools
+**🧰 Tools & Platforms**
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 
-### Specializations
-- **State Management:** Provider, Riverpod, Bloc
-- **Backend Integration:** REST APIs, Firebase, GraphQL
-- **Architecture:** Clean Architecture, MVVM, BLoC pattern
-- **UI/UX:** Material Design, Cupertino, Custom Animations
+**📚 Architecture & Patterns**
 
----
+| Area | Technologies |
+|------|-------------|
+| State Management | Provider, Riverpod, Bloc |
+| Architecture | Clean Architecture, MVVM, BLoC |
+| Backend Integration | REST APIs, Firebase, GraphQL |
+| UI/UX | Material Design, Cupertino, Custom Animations |
 
-## 💼 What I Build
+<br/>
 
-```dart
-class MyExpertise {
-  final List<String> skills = [
-    '📱 Cross-platform mobile applications',
-    '🎨 Custom widgets & reusable UI components',
-    '🔌 RESTful API integrations',
-    '🔥 Firebase-powered backends',
-    '⚡ Performance-optimized apps',
-    '✨ Fluid animations & micro-interactions',
-    '🏗️ Scalable app architectures',
-  ];
-}
-```
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rulson&layout=compact&theme=tokyonight&langs_count=8"/>
+<a href="https://github.com/Rulson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rulson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rulson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</a>
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rulson&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rulson&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&area=true" width="95%" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rulson&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" />
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### [🛍️ Woo Commerce Flutter App](https://github.com/Rulson/woo-commerce-flutter-app)
+
+*A Flutter e-commerce app integrated with WooCommerce REST API*
+
+| Stack | Flutter · Dart · WooCommerce API |
+|-------|----------------------------------|
+| Features | Product browsing, cart management, checkout |
+| Status | ⚡ Active development |
+
 ---
 
-## 🎯 Current Focus
+*Want to see more? Check out my [repositories](https://github.com/Rulson?tab=repositories).*
+
+</div>
+
+<br/>
+
+## 🌱 Current Focus
 
 - 🔭 Building production-ready Flutter applications
-- 🌟 Exploring advanced animation techniques
-- 📚 Deepening knowledge in Flutter architecture patterns
+- 🌟 Diving deep into advanced animation & gesture handling
+- 📚 Studying clean architecture patterns at scale
 - 🤝 Open to collaborating on interesting Flutter projects
 
----
+<br/>
 
-## 💬 Let's Connect
-
-I'm always interested in connecting with fellow developers, discussing Flutter, or exploring collaboration opportunities. Feel free to reach out!
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rulsonjoshi1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rulson)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+<a href="mailto:rulsonjoshi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Rulson"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rulson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/>
+<br/>
 
 **Thanks for stopping by! Let's build something amazing together 🚀**
 
-*"The best error message is the one that never shows up."* – Thomas Fuchs
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rulson&color=blueviolet&style=for-the-badge)
+*"The best error message is the one that never shows up."*
 
 </div>
